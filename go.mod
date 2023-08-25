@@ -1,3 +1,3 @@
-module github.com/openshift-for-developers/hello
+module github.com/agadir001/hello
 
 go 1.16
